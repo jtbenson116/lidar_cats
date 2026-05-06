@@ -1,4 +1,4 @@
-# RPLidar A1 Cat Detector
+# RPLidar A1 Cat Detector - WIP: results pending
 ### Raspberry Pi 5 · Complete Setup Guide
 
 ---
